@@ -1,0 +1,13 @@
+{
+    "name": "RhodaCorp Token",
+    "description": "This NFT grants membership to a exclusive group to its owner",
+    "image": "https://cloud.genfty.com/ipfs/QmdVGUwk5Q1vUXnkh1RC257jUCwcWjk5gWePWM9rdDjRjE/nft.png",
+    "mediaType": "image/png",
+    "attributes": [
+        {
+            "trait_type": "Holder Type",
+            "value": "Employee"
+        }
+    ],
+    "compiler": "Nathan Rhoda"
+}
